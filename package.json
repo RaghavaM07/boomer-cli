@@ -1,0 +1,18 @@
+{
+	"name": "boomer",
+	"version": "1.0.0",
+	"description": "",
+	"exports": "./index.js",
+	"bin": {
+		"boomer": "index.js"
+	},
+	"keywords": [],
+	"author": "Raghava Murugudu",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.4.0",
+		"commander": "^11.0.0",
+		"fs-extra": "^11.1.1",
+		"inquirer": "^8.0.0"
+	}
+}
